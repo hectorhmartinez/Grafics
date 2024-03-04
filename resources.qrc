@@ -1,0 +1,16 @@
+<RCC>
+    <qresource prefix="/">
+        <file>resources/fshader1.glsl</file>
+        <file>resources/vshader1.glsl</file>
+        <file>resources/fshaderDepth.glsl</file>
+        <file>resources/vshaderDepth.glsl</file>
+        <file>resources/fshaderGouraud.glsl</file>
+        <file>resources/vshaderGouraud.glsl</file>
+        <file>resources/fshaderToon.glsl</file>
+        <file>resources/vshaderToon.glsl</file>
+        <file>resources/fshaderPhong.glsl</file>
+        <file>resources/vshaderPhong.glsl</file>
+        <file>resources/fshaderTexture.glsl</file>
+        <file>resources/vshaderTexture.glsl</file>
+    </qresource>
+</RCC>
